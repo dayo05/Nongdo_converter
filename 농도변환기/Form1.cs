@@ -135,6 +135,7 @@ namespace 농도변환기
                         if(to_mode == 0)
                         {
                             //TODO
+                            MessageBox.Show("TODO :D");
                         }
                         else
                         {
